@@ -19,3 +19,4 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 ### Links
 
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Read more AMAs](https://github.com/sindresorhus/amas)
