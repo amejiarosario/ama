@@ -1,6 +1,6 @@
 # AMA = *A*sk *M*e *A*nything!
 
-## [Ask a new question](../../issues/new) &nbsp;&nbsp;&nbsp; [Answered questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+## [Ask a new question](../../issues/new) &nbsp;&nbsp;|&nbsp;&nbsp; [Answered questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 I get a lot of questions by email. This is my new way, so anyone can benefit from the answer!
 
